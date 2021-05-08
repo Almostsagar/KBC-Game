@@ -9,13 +9,8 @@ If the player enters the wrong option he/she loses the game and exits with the p
 
 Screenshots:
 
-1.
-![1st screen](https://github.com/Almostsagar/KBC-Game/blob/main/assets/1.png?raw=true)
+1.  ![1st screen](https://github.com/Almostsagar/KBC-Game/blob/main/assets/1.png?raw=true)
 
+2.  ![1st screen](https://github.com/Almostsagar/KBC-Game/blob/main/assets/2.png?raw=true)
 
-2.
-![1st screen](https://github.com/Almostsagar/KBC-Game/blob/main/assets/2.png?raw=true)
-
-
-3.
-![1st screen](https://github.com/Almostsagar/KBC-Game/blob/main/assets/3.png?raw=true)
+3.  ![1st screen](https://github.com/Almostsagar/KBC-Game/blob/main/assets/3.png?raw=true)
